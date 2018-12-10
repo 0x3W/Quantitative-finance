@@ -2,7 +2,11 @@
 
 ## 0. Valuation
 
- - European Vanilla call option valuation, Monte Carlo simulation, implied volatility surface (smile), CBOE option chain processing
+Black and Scholes world
+ - European vanilla call option valuation, 
+ - Monte Carlo simulation, 
+ - Implied volatility surface (smile)
+ - AAPL option chain processing from CBOE
 
 
 ## 1. FeedHandlers
