@@ -6,7 +6,7 @@ Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Bla
  - European vanilla call option valuation
  - Monte Carlo simulation 
  - Implied volatility surface (smile) calculation
- - AAPL option chain processing from CBOE processing
+ - AAPL option chain processing from CBOE
 
 
 ## 1. FeedHandlers
