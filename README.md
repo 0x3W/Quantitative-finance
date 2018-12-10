@@ -2,7 +2,7 @@
 
 ## 0. Valuation
 
-Black and Scholes world [notebook][1]
+Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Black-Scholes%20World.ipynb)
  - European vanilla call option valuation,
  - Monte Carlo simulation 
  - Implied volatility surface (smile) calculation
@@ -11,10 +11,8 @@ Black and Scholes world [notebook][1]
 
 ## 1. FeedHandlers
 
- - WebSocket Poloniex BTC/ETH feed handler that saves data to MySQL database  
+ - WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to MySQL database  
  
  ## 2. Data
  
- - AAPL option chain from CBOE on 14th Nov
-
-[1] www.google.com
+ - Apple Inc. (AAPL) option chain from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov
