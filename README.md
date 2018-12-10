@@ -11,7 +11,7 @@ Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Bla
 
 ## 1. FeedHandlers
 
- - WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to MySQL database  
+ - WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, mongoDB, MySQL or kdb+/q database  
  
  ## 2. Data
  
