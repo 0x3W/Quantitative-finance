@@ -3,7 +3,7 @@
 ## 0. Valuation
 
 Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Black-Scholes%20World.ipynb)
- - European vanilla call option valuation,
+ - European vanilla call option valuation
  - Monte Carlo simulation 
  - Implied volatility surface (smile) calculation
  - AAPL option chain processing from CBOE processing
