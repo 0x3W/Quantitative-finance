@@ -8,7 +8,7 @@ a. Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/
  - Implied volatility surface (smile) calculation
  - AAPL option chain processing from CBOE
  
-b. The Cox-Ross-Rubinstein (CRR model)
+b. The Cox-Ross-Rubinstein (CRR model) notebook
 
 c. Stochastic Alpha Beta Rho (SABR) model
 
