@@ -24,7 +24,7 @@ Apple Inc (AAPL) stock price notebook
 
 ## 2. FeedHandlers
 
- - WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, mongoDB, MySQL or kdb+/q database  
+ - WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, MySQL or kdb+/q database  
  
  ## 3. Data
  
