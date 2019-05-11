@@ -20,9 +20,9 @@ a. Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/ma
 - Financial returns analysis
 - Classical forecasting methods (AR, MA, ARIMA, GARCH)
 
-c. Bayesian ARMA model [report](https://github.com/0x3W/MSc-Data-Science/blob/master/SDS/SDSII%20-%20Final%20Project%20-%201772953.pdf)
+b. Bayesian ARMA model [report](https://github.com/0x3W/MSc-Data-Science/blob/master/SDS/SDSII%20-%20Final%20Project%20-%201772953.pdf)
 
-b. Hybrid (classical + deep learning) forecasting methods
+c. Hybrid (classical + deep learning) forecasting methods
 
 
  
