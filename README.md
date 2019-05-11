@@ -1,6 +1,8 @@
 # Quant
 
-## 0. Equity Options Valuation
+## 0. Random processes
+
+## 1. Equity Options Valuation
 
 a. Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Black-Scholes%20World.ipynb)
  - European vanilla call option pricing
@@ -14,7 +16,7 @@ c. Stochastic Alpha Beta Rho (SABR) model
 
 d. Matrix pricing for illiquid instruments
 
-## 1. Time series analysis & (volatility) forecasting
+## 2. Time series analysis & (volatility) forecasting
 
 a. Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/master/Time-Series%20Forecasting.ipynb)
 - Financial returns analysis
@@ -24,9 +26,7 @@ b. Bayesian ARMA model [report](https://github.com/0x3W/MSc-Data-Science/blob/ma
 
 c. Hybrid (classical + deep learning) forecasting methods
 
-
- 
- ## 2. Data and retrivial
+ ## 3. Data and retrivial
  
 a. WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, MySQL or kdb+/q database  
 
