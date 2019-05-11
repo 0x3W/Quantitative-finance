@@ -16,7 +16,7 @@ d. Matrix pricing for illiquid instruments
 
 ## 1. Time series analysis & Volatility forecasting
 
-Apple Inc (AAPL) stock price [notebook][https://github.com/0x3W/Quant/blob/master/Time-Series%20Forecasting.ipynb]
+Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/master/Time-Series%20Forecasting.ipynb)
 - Financial returns analysis
 - Classical forecasting methods (AR, MA, ARIMA, GARCH)
 - Hybrid (classical + deep learning) forecasting methods
