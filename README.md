@@ -5,7 +5,7 @@
 ## 1. Equity Options Valuation
 
 a. Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Black-Scholes%20World.ipynb)
- - European vanilla call option pricing
+ - European vanilla call option pricing also in [k\q](https://github.com/0x3W/randomScripts/blob/master/useful.q)
  - Monte Carlo simulation 
  - Implied volatility surface (smile) calculation
  - AAPL option chain processing from CBOE
@@ -28,7 +28,7 @@ c. Hybrid (classical + deep learning) forecasting methods
 
  ## 3. Data and retrivial
  
-a. WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, MySQL or kdb+/q database  
+a. WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, MySQL or kdb+/q database also in [k\q](https://github.com/0x3W/randomScripts/blob/master/useful.q) 
 
 b. Apple Inc. (AAPL) [option chain](https://github.com/0x3W/Quant/blob/master/AAPL.dat) from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov 2018
 
