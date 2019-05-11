@@ -27,4 +27,4 @@ Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/maste
  
  ## 3. Data
  
- - Apple Inc. (AAPL) option chain from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov
+ - Apple Inc. (AAPL) [option chain](https://github.com/0x3W/Quant/blob/master/AAPL.dat) from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov
