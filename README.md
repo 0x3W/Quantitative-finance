@@ -1,6 +1,6 @@
 # Quant
 
-## 0. Valuation
+## 0. Equity/Index Options Valuation
 
 a. Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Black-Scholes%20World.ipynb)
  - European vanilla call option pricing
