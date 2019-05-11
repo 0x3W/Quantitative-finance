@@ -20,12 +20,15 @@ a. Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/ma
 - Financial returns analysis
 - Classical forecasting methods (AR, MA, ARIMA, GARCH)
 - Hybrid (classical + deep learning) forecasting methods
-
-## 2. FeedHandlers
-
-a. WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, MySQL or kdb+/q database  
  
- ## 3. Data
+ ## 2. Data and retrivial
  
-a. Apple Inc. (AAPL) [option chain](https://github.com/0x3W/Quant/blob/master/AAPL.dat) from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov
-b. Bloomberg API [script](https://github.com/0x3W/randomScripts/blob/master/BloombergAPI-SPXmembersHistData.py) that retrives price history of SPX index members
+a. a. WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/master/Poloniex-BTCETH-SQL-WebSocket-FeedHandler.py) that saves data to flat files, MySQL or kdb+/q database  
+
+b. Apple Inc. (AAPL) [option chain](https://github.com/0x3W/Quant/blob/master/AAPL.dat) from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov
+
+c. Bloomberg API [script](https://github.com/0x3W/randomScripts/blob/master/BloombergAPI-SPXmembersHistData.py) that retrives price history of SPX index members
+
+d. Interactive brokers API [script](https://github.com/0x3W/randomScripts/blob/master/IBapi-sample2.R) that retrives historical prices 
+
+e. Wharton Research Data Services [script](https://github.com/0x3W/Quant/blob/master/WRDS.ipynb) for retriving and saving TAQ data
