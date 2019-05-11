@@ -28,3 +28,4 @@ a. WebSocket Poloniex BTC/ETH [feed handler](https://github.com/0x3W/Quant/blob/
  ## 3. Data
  
 a. Apple Inc. (AAPL) [option chain](https://github.com/0x3W/Quant/blob/master/AAPL.dat) from [CBOE](http://www.cboe.com/delayedquote/quote-table) on 14th Nov
+b. Bloomberg API [script](https://github.com/0x3W/randomScripts/blob/master/BloombergAPI-SPXmembersHistData.py) that retrives price history of SPX index members
