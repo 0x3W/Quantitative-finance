@@ -2,7 +2,7 @@
 
 ## 0. Random processes
 
-## 1. Equity Options Valuation
+## 1. Options Valuation
 
 a. Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/Black-Scholes%20World.ipynb)
  - European vanilla call option pricing also in [k\q](https://github.com/0x3W/randomScripts/blob/master/useful.q)
@@ -10,12 +10,6 @@ a. Black and Scholes world [notebook](https://github.com/0x3W/Quant/blob/master/
  - Implied volatility surface (smile) calculation
  - AAPL option chain processing from CBOE
  
-b. The Cox-Ross-Rubinstein (CRR model) notebook
-
-c. Stochastic Alpha Beta Rho (SABR) model
-
-d. Matrix pricing for illiquid instruments
-
 ## 2. Time series analysis & (volatility) forecasting
 
 a. Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/master/Time-Series%20Forecasting.ipynb)
