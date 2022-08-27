@@ -18,7 +18,7 @@ a. Apple Inc (AAPL) stock price [notebook](https://github.com/0x3W/Quant/blob/ma
 
 b. Bayesian ARMA model [report](https://github.com/0x3W/MSc-Data-Science/blob/master/SDS/SDSII%20-%20Final%20Project%20-%201772953.pdf)
 
-c. Hybrid (classical + deep learning) forecasting methods
+c. Hybrid (classical + deep learning) forecasting [methods](https://github.com/0x3W/Time-Series-Forecasting)
 
  ## 3. Data and retrivial
  
